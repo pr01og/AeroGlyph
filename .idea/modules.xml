@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AeroGlyph.iml" filepath="$PROJECT_DIR$/AeroGlyph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LIB_OK/google-play-services_lib.iml" filepath="$PROJECT_DIR$/../LIB_OK/google-play-services_lib.iml" />
+    </modules>
+  </component>
+</project>
+
