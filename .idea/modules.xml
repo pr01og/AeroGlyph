@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AeroGlyph.iml" filepath="$PROJECT_DIR$/AeroGlyph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/google-play-services_lib/google-play-services_lib.iml" filepath="$PROJECT_DIR$/libs/google-play-services_lib/google-play-services_lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/../LIB_OK/google-play-services_lib.iml" filepath="$PROJECT_DIR$/../LIB_OK/google-play-services_lib.iml" />
     </modules>
   </component>
